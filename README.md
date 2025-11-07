@@ -1,4 +1,6 @@
 ## Hi there 👋
+### About Me
+I'm a Full Stack Developper
 
 <!--
 **angelgct05/angelgct05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
