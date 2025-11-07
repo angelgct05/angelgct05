@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angel Celestino</h1>
 <h3 align="center">I'm a full-stack developer who enjoys creating efficient and scalable applications. I develop in languages ​​such as Java, C#, and TypeScript, leveraging frameworks like Spring, .NET, and Angular.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angelgct05" alt="angelgct05" /></a> </p>
-
 - 🔭 I’m currently working on **DevelTec**
 
 - 👨‍💻 All of my projects are available at [www.link.com](www.link.com)
