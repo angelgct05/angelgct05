@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel Celestino</h1>
-<h3 align="center">I'm a full-stack developer who enjoys creating efficient and scalable applications. I develop in languages ​​such as Java, C#, and TypeScript, leveraging frameworks like Spring, .NET, and Angular.</h3>
+<h3 align="center">I'm a full-stack developer who enjoys creating efficient and scalable applications. <br>I develop in languages ​​such as Java, C#, and TypeScript, using frameworks like Spring, .NET, and Angular.</h3>
 
 - 🔭 I’m currently working on **DevelTec**
 
